@@ -1,1 +1,1 @@
-# shadowrocket
+自建更新shadowrocket
